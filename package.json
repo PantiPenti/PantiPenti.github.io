@@ -1,0 +1,11 @@
+{
+  "name": "circleinfinity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./tailwind.css -o ./Circle-Infinity/main.css",
+    "lp": "tailwindcss -i ./tailwind.css -o ./Circle-Infinity/main.css --watch"
+  }
+}
